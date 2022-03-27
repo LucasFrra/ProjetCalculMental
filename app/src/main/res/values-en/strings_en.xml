@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Project Mental Counting</string>
+    <string name="boutonNouvellePartie">New Game</string>
+    <string name="boutonScore">Score</string>
+    <string name="boutonEffacer">Delete</string>
+    <string name="toolbarScore">Score :</string>
+    <string name="ERROR_VALEUR_TROP_GRANDE">Too high value</string>
+    <string name="titleAPropos">About us</string>
+    <string name="boutonAPropos">About us</string>
+    <string name="textViewClassement">Ranking</string>
+    <string name="textViewDonnerPseudo">Enter your username :</string>
+    <string name="boutonValidationPseudo">Validate nickname</string>
+    <string name="textViewPseudoTitre">Username</string>
+    <string name="textViewScoreTitre">Score</string>
+    <string name="Description_A_Propos">Group members :\n Lucas Ferreira \n Nathan Hucleux \n\n Available languages : \n Français \n English EN \n Español \n မြန်မာ \n\n Additional features : \n Creation of a bird : If you hit it on the fly, it earns 5 bonus points \n Creation of bonus questions: At certain levels, a more complex question comes into play, giving you no points or double the usual amount. </string>
+</resources>

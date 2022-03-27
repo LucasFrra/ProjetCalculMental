@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Proyecto de recuento mental</string>
+    <string name="boutonNouvellePartie">Nuevo juego</string>
+    <string name="boutonScore">Score</string>
+    <string name="boutonEffacer">Borrar</string>
+    <string name="toolbarScore">Score :</string>
+    <string name="ERROR_VALEUR_TROP_GRANDE">Valor demasiado alto</string>
+    <string name="titleAPropos">Sobre nosotros</string>
+    <string name="boutonAPropos">Sobre nosotros</string>
+    <string name="Description_A_Propos">Miembros del grupo :\n Lucas Ferreira \n Nathan Hucleux \n\n Idiomas disponibles : \n Français \n English EN \n Español \n မြန်မာ \n\n Características adicionales : \n Creación de un pájaro : Si lo tocas en vuelo, gana 5 puntos de bonificación \n Creación de preguntas de bonificación: En determinados niveles, entra en juego una pregunta más compleja que no te da puntos o te da el doble de la cantidad habitual.</string>
+    <string name="textViewClassement">Clasificación</string>
+    <string name="textViewDonnerPseudo">Introduzca su nombre de usuario :</string>
+    <string name="boutonValidationPseudo">Validar apodo</string>
+    <string name="textViewPseudoTitre">Nombre de usuario</string>
+    <string name="textViewScoreTitre">Puntuación</string>
+</resources>

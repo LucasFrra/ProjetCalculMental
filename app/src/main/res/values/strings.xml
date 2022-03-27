@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ProjetCalculMental</string>
+    <string name="boutonNouvellePartie">Nouvelle partie</string>
+    <string name="boutonScore">Score</string>
+    <string name="boutonEffacer">Effacer</string>
+    <string name="bouton1" translatable="false">1</string>
+    <string name="bouton2" translatable="false">2</string>
+    <string name="bouton3" translatable="false">3</string>
+    <string name="bouton4" translatable="false">4</string>
+    <string name="bouton5" translatable="false">5</string>
+    <string name="bouton6" translatable="false">6</string>
+    <string name="bouton7" translatable="false">7</string>
+    <string name="bouton8" translatable="false">8</string>
+    <string name="bouton9" translatable="false">9</string>
+    <string name="boutonMoins" translatable="false">(-)</string>
+    <string name="bouton0" translatable="false">0</string>
+    <string name="boutonOK" translatable="false">Ok</string>
+    <string name="textViewScore" translatable="false">"Score : "</string>
+    <string name="toolbarScore">Score :</string>
+    <string name="ERROR_VALEUR_TROP_GRANDE">Valeur trop grande</string>
+    <string name="textMenuScore" translatable="false">0</string>
+    <string name="textMenuErreurs" translatable="false">[❤,❤,❤]</string>
+    <string name="titleAPropos">A Propos</string>
+    <string name="Description_A_Propos">Membres du groupe :\n Lucas Ferreira \n Nathan Hucleux \n\n Langues disponibles : \n Français \n English EN \n Español \n မြန်မာ \n\n Fonctionnalités supplémentaires : \n Création dun oiseau : Si vous le touchez au vol, il rapporte 5 points bonus \n Création de questions bonus : A certains paliers, une question plus complexe intervient, ne vous faisant pas perdre de points ou vous en offrant le double du montant habituel. </string>
+    <string name="boutonAPropos">A propos</string>
+    <string name="textViewClassement">Classement</string>
+    <string name="textViewPseudo1" translatable="false" />
+    <string name="textViewScore1" translatable="false" />
+    <string name="textViewPseudo2" translatable="false" />
+    <string name="textViewPseudo3" translatable="false" />
+    <string name="textViewPseudo4" translatable="false" />
+    <string name="textViewScore2" translatable="false" />
+    <string name="textViewScore3" translatable="false" />
+    <string name="textViewScore4" translatable="false" />
+    <string name="textViewCalcul" translatable="false" />
+    <string name="textViewReponse" translatable="false" />
+    <string name="textViewDonnerPseudo">Donnez votre pseudo :</string>
+    <string name="editTextTextPersonName" translatable="false" />
+    <string name="boutonValidationPseudo">Valider pseudo</string>
+    <string name="textViewPseudoTitre">Pseudo</string>
+    <string name="textViewScoreTitre">Score</string>
+</resources>

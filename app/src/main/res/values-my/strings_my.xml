@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">စိတ်ပိုင်းဆိုင်ရာရေတွက်စီမံကိန်</string>
+    <string name="boutonNouvellePartie">ဂိမ်းအသစ်</string>
+    <string name="boutonScore">နိုင်ပြီ</string>
+    <string name="boutonEffacer">ဖျက်ပါ။</string>
+    <string name="toolbarScore">နိုင်ပြီ :</string>
+    <string name="ERROR_VALEUR_TROP_GRANDE">တန်ဖိုးအရမ်းမြင့်တယ်။</string>
+    <string name="titleAPropos">ကြှနျုပျတို့အကွောငျး</string>
+    <string name="boutonAPropos">ကြှနျုပျတို့အကွောငျး</string>
+    <string name="Description_A_Propos">အဖွဲ့ ဝင်များ :\n Lucas Ferreira \n Nathan Hucleux \n\n ဘာသာစကားများရရှိနိုင်ပါသည်။ : \n Français \n English EN \n Español \n မြန်မာ \n\n ထပ်လောင်းအင်္ဂါရပ်များ: \n ငှက်တစ်ကောင်ဖန်တီးခြင်း- ပျံသန်းမှုတွင် ၎င်းကိုထိပါက ဘောနပ်စ်အမှတ် 5 ရရှိမည်ဖြစ်သည်။ \n အပိုဆုမေးခွန်းများဖန်တီးခြင်း- အချို့သောအဆင့်များတွင်၊ ပိုရှုပ်ထွေးသောမေးခွန်းတစ်ခုသည် သင့်အား အမှတ်ဆုံးရှုံးစေခြင်း သို့မဟုတ် ပုံမှန်ပမာဏကို နှစ်ဆပေးချေခြင်းမပြုဘဲ ဝင်ရောက်စွက်ဖက်ပါသည်။. </string>
+    <string name="textViewClassement">အဆင့်သတ်မှတ်ချက်</string>
+    <string name="textViewDonnerPseudo">သင့်အမည်ပြောင်ပေးပါ။ :</string>
+    <string name="boutonValidationPseudo">အမည်ဝှက်ကို အတည်ပြုပါ။</string>
+    <string name="textViewPseudoTitre">အမည်ပြောင်</string>
+    <string name="textViewScoreTitre">နိုင်ပြီ</string>
+</resources>
